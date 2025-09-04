@@ -6,7 +6,7 @@ RaceOptiData aims to keep its data schema alive by providing up-to-date, downloa
 The dumps follow the original Ergast structure, but are refreshed after each race using a modern data collection pipeline (Python + FastF1 + Azure).
 
 👉 Visit https://www.raceoptidata.com for the latest version  
-🗓️ Last update: post-2025 Hungarian Grand Prix
+🗓️ Last update: post-2025 Dutch Grand Prix
 
 ## What's inside
 
