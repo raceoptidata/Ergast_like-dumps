@@ -1,3 +1,4 @@
+![RaceOptiData Banner](images/Github_banner.png)
 # RaceOptiData – F1 Data Dumps (Ergast-compatible)
 
 Since late 2024, the Ergast Motor Racing Data API is no longer updated.  
