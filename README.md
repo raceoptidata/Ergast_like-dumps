@@ -1,10 +1,13 @@
-# 🏎️ RaceOptiData F1 Database Package
+![RaceOptiData Banner](images/Github_banner.png)
+# RaceOptiData – F1 Data Dumps (Ergast-compatible)
 
-This package contains a full extract of Formula 1 race data based on the Ergast-like format, fetched from the Jolpica API and processed via the RaceOptiData pipeline.
+Since late 2024, the Ergast Motor Racing Data API is no longer updated.  
+RaceOptiData aims to keep its data schema alive by providing up-to-date, downloadable dumps (MySQL, PgSQL, Azure SQL and CSV) built from a custom pipeline.
 
-🗓️ Last update: post-2026 season  
-📦 Version: `ergast_like_2026XX`  
-🧱 Export date: 2026-01-09
+The dumps follow the original Ergast structure, but are refreshed after each race using a modern data collection pipeline (Python + FastF1 + Azure).
+
+👉 Visit https://www.raceoptidata.com for the latest version  
+🗓️ Last update: post-2025 season
 
 ---
 
